@@ -68,35 +68,8 @@ Purchase Price Trends
 
 https://www.linkedin.com/in/jhanvi-aggarwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
+## Tools Used
+- Power BI 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Marketing Analysis
-Tools - Power BI 
-
-Skills - Analytical Skills, Marketing Strategy, Data Analysis, Case Analysis
+## Skills 
+- Analytical Skills, Marketing Strategy, Data Analysis, Case Analysis
